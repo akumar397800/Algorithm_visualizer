@@ -1,6 +1,7 @@
 # Algorithm Visualizer
 
-Welcome to Algorithm Visualizer! I built this application because I was fascinated by visualising algorithms, and I wanted to visualize them in action. I hope that you enjoy playing around with this visualization tool just as much as I enjoyed building it. You can access it here (use Google Chrome!): https://clementmihailescu.github.io/Algorithm-Visualizer/
+Welcome to Algorithm Visualizer! I built this application because I was fascinated by visualising algorithms, and I wanted to visualize them in action. I hope that you enjoy playing around with this visualization tool just as much as I enjoyed building it. You can access it here (use Google Chrome!): 
+https://akumar397800.github.io/Algorithm_visualizer/
 
 ## Meet the Algorithms
 
